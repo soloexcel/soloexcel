@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soloexcel
+- 👋 Hi, I’m Olalekan Solomon AWOYEMI, | @soloexcel
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning web3 development.
 - I'm currently an intern at Grandida LLC, and an apprentice developer guild at Alchemy.
